@@ -22,9 +22,6 @@ IMAGE_PATH = "../images/"
 html_title = "<h2 style='color:#FF036A'>Cette application vous est proposée par la Chifouteam</h2>"
 st.markdown(html_title, unsafe_allow_html=True)
 
-
-
-
 #-------------------------------------------------------------------------------
 
 def espace(n):
