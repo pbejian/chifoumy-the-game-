@@ -206,7 +206,7 @@ def picture_to_df(picture):
 
 #===============================================================================
 
-html_title = "<h1 style='color:#FF036A'>Jouons contre la machine !</h1>"
+html_title = "<h2 style='color:#FF036A'>Jouons contre la machine !</h2>"
 st.markdown(html_title, unsafe_allow_html=True)
 
 #-------------------------------------------------------------------------------
